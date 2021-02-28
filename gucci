@@ -1,3 +1,4 @@
+# how to function
 def function_one(number , x , y):
   print(number * x + y)
 function_one(3 , 4 , 5)
