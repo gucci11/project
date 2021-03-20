@@ -1,6 +1,10 @@
-------Bash commands-------
+------Bash commands-------Command Line
 ls = current 
 pwd = 'print working directory'
 Cd = 'Change Directory'("../" to go back
 mkdir- make directory
 touch- create a new file
+* -a - lists all contents, including hidden files and directories
+* -l - lists all contents of a directory in long format, as well as the file permissions
+* -t - orders files and directories by the time they were last modified.
+"cat"- 
